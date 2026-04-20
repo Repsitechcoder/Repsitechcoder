@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Knows a bit of-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows a bit of -HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Knows-Python-blue,yellow/?logo=Python&logoColor=warning&color=blue,yellow" alt="html">
+  <img src="https://komarev.com/ghpvc/?username=Repsitechcoder&color=blue&label=Profile+Visitors" alt="Repsi" /> 
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Repsitechcoder&no-frame=trueno-bg=true" alt="Repsi" /></a> </p> -->
